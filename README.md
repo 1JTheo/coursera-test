@@ -3,14 +3,11 @@ https://1jtheo.github.io/coursera-test/site/
 
 # Sites to ask questions
 https://JSFiddle.net
-
 https://codepen.io/
-
 https://css-tricks.com/
 
 # where to validate which browser my HTML will works on properly
 https://validator.w3.org/
-- to validate a website
 
 https://www.w3schools.com/browsers/default.asp
 
