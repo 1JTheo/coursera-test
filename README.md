@@ -26,3 +26,6 @@ https://ClearlyDecoded.com
 # CSS BEGINS
 
 http://www.csszengarden.com/
+
+LUNCH ALL THE TIME IN THE TERMINAL
+browser-sync start --server --directory --files "*"
