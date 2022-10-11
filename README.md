@@ -14,7 +14,7 @@ https://www.w3schools.com/browsers/default.asp
 # where to check the usefulnes of the features I use in my html
 https://caniuse.com/
 - Keep All the standards
-- Tell which broeser support the website or features
+- Tell which browser support the website or features
 
 # Learn all kinda language
 https://www.w3schools.com/
